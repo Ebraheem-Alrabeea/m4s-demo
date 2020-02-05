@@ -1,21 +1,4 @@
 {
-  "adv": [
-    {
-      "id": 1,
-      "title": "Toyota Camry for sale",
-      "username": "Ebraheem1"
-    },
-    {
-      "id": 2,
-      "title": "Toyota Rav4 for sale",
-      "username": "Ebraheem2"
-    },
-    {
-      "id": 3,
-      "title": "Toyota Prius for sale",
-      "username": "Ebraheem3"
-    }
-  ],
   "email": [
     {
       "title": "Toyota Camry For Sale",
